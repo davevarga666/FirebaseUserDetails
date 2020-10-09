@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UserDetailsFirebase</string>
+    <string name="add_user">Add user</string>
+    <string name="save">SAVE</string>
+    <string name="lastname">last_name</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="newSave">SAVE</string>
+    <string name="ageHint">Age</string>
+    <string name="ageText">Age:</string>
+</resources>
